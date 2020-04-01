@@ -3,7 +3,7 @@ The project contains UI automated test as a recruitment task for FRIDAY
 
 
 ## Required software
-1. [Java SE Development Kit 11](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)  
+1. [Java SE Development Kit 8](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)  
 2. [Apache Maven](https://maven.apache.org/install.html) 
 3. [IntelliJ IDEA Community](https://www.jetbrains.com/idea/)   
 
