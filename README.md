@@ -14,10 +14,15 @@ Switch to project directory
 ```
  cd friday-ui-tests
 ```
-In order to run the tests
+In order to run the tests (Chrome)
 
 ```
  mvn test
+```
+In order to run the tests (Firefox)
+
+```
+ mvn test -Ddriver=firefox
 ```
  To see generated report after test run
 
